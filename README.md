@@ -24,3 +24,6 @@ Zeitaufwand: 3h
 KI-Notiz: 
 Ich habe den Code mit Google Gemini generiert und sozusagen prompt-engineering betrieben und mich mit der KI ausgetauscht bis alle Probleme behoben waren.
 Geprüft wurde einfach in dem man das Program selber ausführt auf dem Laptop.
+
+Anmerkung:
+Github hat nur max 25MB Videodateien zugelassen, daher nur ein 30s Video
