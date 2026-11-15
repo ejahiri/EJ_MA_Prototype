@@ -1,7 +1,7 @@
 # EJ_MA_Prototype
 
 Problem: 
-M&A Analysten benötigen zu viel Zeit um wichtige Kenndaten aus pdfs zu sammeln.
+M&A Analysten benötigen zu viel Zeit um wichtige Kenndaten aus Notizen von Meetings zu sammeln wie bspw. in der Fallstudie Q&A.
 
 Nutzen:
 Spart Zeit, Analysten müssen nicht mehr das gesamte pdf durchgehen sondern nur an spezifischen Stellen nachschlagen.
